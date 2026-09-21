@@ -1,0 +1,1 @@
+"""Healthtech statement example package."""
